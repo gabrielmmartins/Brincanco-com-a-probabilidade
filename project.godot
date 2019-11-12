@@ -13,7 +13,11 @@ _global_script_class_icons={
 
 }
 
-[display]
+[application]
 
-window/size/width=1920
-window/size/height=1080
+config/name="Brincando com a Probabilidade"
+config/icon="res://icon.png"
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
